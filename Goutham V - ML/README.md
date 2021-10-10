@@ -1,6 +1,6 @@
 # Salary-prediction using Linear regression 
 
-Precidency University 
+Presidency University 
 
 Assingment
 
