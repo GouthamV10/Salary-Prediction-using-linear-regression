@@ -10,9 +10,13 @@ Sec - 5CSE03
 
 Libraries used
 Numpy
+
 Pandas
+
 Seaborn
+
 Sikitlearn
+
 Statsmodel
 
 Salary prediction using simple linear regression.
